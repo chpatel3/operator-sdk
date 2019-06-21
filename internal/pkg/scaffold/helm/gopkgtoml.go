@@ -17,9 +17,9 @@ package helm
 import (
 	"fmt"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/internal/deps"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/internal/deps"
 )
 
 // GopkgToml - the Gopkg.toml file for a hybrid operator

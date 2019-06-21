@@ -20,11 +20,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
-	catalog "github.com/operator-framework/operator-sdk/internal/pkg/scaffold/olm-catalog"
-	"github.com/operator-framework/operator-sdk/internal/util/fileutil"
-	"github.com/operator-framework/operator-sdk/internal/util/projutil"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
+	catalog "github.com/chpatel3/operator-sdk/internal/pkg/scaffold/olm-catalog"
+	"github.com/chpatel3/operator-sdk/internal/util/fileutil"
+	"github.com/chpatel3/operator-sdk/internal/util/projutil"
 
 	"github.com/coreos/go-semver/semver"
 	log "github.com/sirupsen/logrus"

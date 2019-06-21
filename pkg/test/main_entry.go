@@ -27,9 +27,9 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
-	"github.com/operator-framework/operator-sdk/internal/util/projutil"
-	"github.com/operator-framework/operator-sdk/pkg/k8sutil"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/util/projutil"
+	"github.com/chpatel3/operator-sdk/pkg/k8sutil"
 
 	log "github.com/sirupsen/logrus"
 	"k8s.io/client-go/tools/clientcmd"

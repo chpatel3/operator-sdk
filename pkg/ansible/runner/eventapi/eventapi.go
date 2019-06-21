@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/operator-framework/operator-sdk/internal/util/fileutil"
+	"github.com/chpatel3/operator-sdk/internal/util/fileutil"
 
 	"github.com/go-logr/logr"
 	logf "sigs.k8s.io/controller-runtime/pkg/runtime/log"

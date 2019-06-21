@@ -17,8 +17,8 @@ package scaffold
 import (
 	"testing"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
-	"github.com/operator-framework/operator-sdk/internal/util/diffutil"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/util/diffutil"
 )
 
 func TestGoMod(t *testing.T) {

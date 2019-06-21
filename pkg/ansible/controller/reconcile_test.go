@@ -20,12 +20,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/operator-framework/operator-sdk/pkg/ansible/controller"
-	ansiblestatus "github.com/operator-framework/operator-sdk/pkg/ansible/controller/status"
-	"github.com/operator-framework/operator-sdk/pkg/ansible/events"
-	"github.com/operator-framework/operator-sdk/pkg/ansible/runner"
-	"github.com/operator-framework/operator-sdk/pkg/ansible/runner/eventapi"
-	"github.com/operator-framework/operator-sdk/pkg/ansible/runner/fake"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/controller"
+	ansiblestatus "github.com/chpatel3/operator-sdk/pkg/ansible/controller/status"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/events"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/runner"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/runner/eventapi"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/runner/fake"
 
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 	"k8s.io/apimachinery/pkg/runtime/schema"

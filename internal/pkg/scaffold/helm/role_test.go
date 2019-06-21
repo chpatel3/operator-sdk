@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/helm"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/helm"
 
 	"github.com/stretchr/testify/assert"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

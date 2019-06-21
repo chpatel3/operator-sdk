@@ -14,7 +14,7 @@
 
 package ansible
 
-import "github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
+import "github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
 
 const TravisFile = ".travis.yml"
 

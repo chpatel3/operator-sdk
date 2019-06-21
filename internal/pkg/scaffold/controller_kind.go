@@ -21,7 +21,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
 )
 
 // ControllerKind is the input needed to generate a pkg/controller/<kind>/<kind>_controller.go file

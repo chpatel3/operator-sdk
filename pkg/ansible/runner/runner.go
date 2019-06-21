@@ -26,10 +26,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/operator-framework/operator-sdk/pkg/ansible/metrics"
-	"github.com/operator-framework/operator-sdk/pkg/ansible/paramconv"
-	"github.com/operator-framework/operator-sdk/pkg/ansible/runner/eventapi"
-	"github.com/operator-framework/operator-sdk/pkg/ansible/runner/internal/inputdir"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/metrics"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/paramconv"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/runner/eventapi"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/runner/internal/inputdir"
 
 	yaml "gopkg.in/yaml.v2"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

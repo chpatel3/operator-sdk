@@ -25,10 +25,10 @@ import (
 
 	"k8s.io/apimachinery/pkg/runtime/schema"
 
-	"github.com/operator-framework/operator-sdk/pkg/ansible/controller"
-	"github.com/operator-framework/operator-sdk/pkg/ansible/flags"
-	"github.com/operator-framework/operator-sdk/pkg/ansible/proxy/controllermap"
-	"github.com/operator-framework/operator-sdk/pkg/ansible/runner"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/controller"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/flags"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/proxy/controllermap"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/runner"
 
 	"sigs.k8s.io/controller-runtime/pkg/manager"
 	logf "sigs.k8s.io/controller-runtime/pkg/runtime/log"

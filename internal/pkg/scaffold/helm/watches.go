@@ -15,8 +15,8 @@
 package helm
 
 import (
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
 )
 
 const WatchesYamlFile = "watches.yaml"

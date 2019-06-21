@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
-	"github.com/operator-framework/operator-sdk/internal/pkg/scorecard"
-	"github.com/operator-framework/operator-sdk/version"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scorecard"
+	"github.com/chpatel3/operator-sdk/version"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

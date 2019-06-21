@@ -18,7 +18,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
 )
 
 const RegisterFile = "register.go"

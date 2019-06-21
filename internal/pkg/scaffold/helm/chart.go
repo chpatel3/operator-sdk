@@ -22,7 +22,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
 
 	"github.com/iancoleman/strcase"
 	log "github.com/sirupsen/logrus"

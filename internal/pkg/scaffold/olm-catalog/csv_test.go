@@ -22,11 +22,11 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
-	testutil "github.com/operator-framework/operator-sdk/internal/pkg/scaffold/internal/testutil"
-	"github.com/operator-framework/operator-sdk/internal/util/diffutil"
-	"github.com/operator-framework/operator-sdk/pkg/k8sutil"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
+	testutil "github.com/chpatel3/operator-sdk/internal/pkg/scaffold/internal/testutil"
+	"github.com/chpatel3/operator-sdk/internal/util/diffutil"
+	"github.com/chpatel3/operator-sdk/pkg/k8sutil"
 
 	"github.com/coreos/go-semver/semver"
 	"github.com/ghodss/yaml"

@@ -21,7 +21,7 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
 
 	log "github.com/sirupsen/logrus"
 )

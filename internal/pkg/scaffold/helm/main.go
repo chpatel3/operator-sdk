@@ -17,7 +17,7 @@ package helm
 import (
 	"path/filepath"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
 )
 
 // Main - main source file for helm operator

@@ -17,8 +17,8 @@ package ansible
 import (
 	"fmt"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/internal/deps"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/internal/deps"
 )
 
 const GoModFile = "go.mod"

@@ -18,7 +18,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
 )
 
 // Types is the input needed to generate a pkg/apis/<group>/<version>/<kind>_types.go file

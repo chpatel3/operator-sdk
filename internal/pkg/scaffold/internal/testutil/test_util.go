@@ -17,7 +17,7 @@ package test
 import (
 	"os"
 
-	"github.com/operator-framework/operator-sdk/internal/util/fileutil"
+	"github.com/chpatel3/operator-sdk/internal/util/fileutil"
 
 	"github.com/spf13/afero"
 )

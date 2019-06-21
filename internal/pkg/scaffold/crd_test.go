@@ -18,9 +18,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	testutil "github.com/operator-framework/operator-sdk/internal/pkg/scaffold/internal/testutil"
-	"github.com/operator-framework/operator-sdk/internal/util/diffutil"
-	"github.com/operator-framework/operator-sdk/internal/util/fileutil"
+	testutil "github.com/chpatel3/operator-sdk/internal/pkg/scaffold/internal/testutil"
+	"github.com/chpatel3/operator-sdk/internal/util/diffutil"
+	"github.com/chpatel3/operator-sdk/internal/util/fileutil"
 
 	"github.com/spf13/afero"
 )

@@ -19,8 +19,8 @@ import (
 	"reflect"
 	"testing"
 
-	framework "github.com/operator-framework/operator-sdk/pkg/test"
-	tlsutil "github.com/operator-framework/operator-sdk/pkg/tls"
+	framework "github.com/chpatel3/operator-sdk/pkg/test"
+	tlsutil "github.com/chpatel3/operator-sdk/pkg/tls"
 
 	"k8s.io/api/core/v1"
 	apiErrors "k8s.io/apimachinery/pkg/api/errors"

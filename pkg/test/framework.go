@@ -24,7 +24,7 @@ import (
 	// Import all Kubernetes client auth plugins (e.g. Azure, GCP, OIDC, etc.)
 	_ "k8s.io/client-go/plugin/pkg/client/auth"
 
-	k8sInternal "github.com/operator-framework/operator-sdk/internal/util/k8sutil"
+	k8sInternal "github.com/chpatel3/operator-sdk/internal/util/k8sutil"
 
 	extscheme "k8s.io/apiextensions-apiserver/pkg/client/clientset/clientset/scheme"
 	"k8s.io/apimachinery/pkg/runtime"

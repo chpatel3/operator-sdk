@@ -21,7 +21,7 @@ import (
 	"io"
 	"text/tabwriter"
 
-	"github.com/operator-framework/operator-sdk/internal/util/projutil"
+	"github.com/chpatel3/operator-sdk/internal/util/projutil"
 
 	"github.com/rogpeppe/go-internal/modfile"
 )

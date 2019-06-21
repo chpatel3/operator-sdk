@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/operator-framework/operator-sdk/internal/util/k8sutil"
-	scapiv1alpha1 "github.com/operator-framework/operator-sdk/pkg/apis/scorecard/v1alpha1"
+	"github.com/chpatel3/operator-sdk/internal/util/k8sutil"
+	scapiv1alpha1 "github.com/chpatel3/operator-sdk/pkg/apis/scorecard/v1alpha1"
 
 	olmapiv1alpha1 "github.com/operator-framework/operator-lifecycle-manager/pkg/api/apis/operators/v1alpha1"
 	v1 "k8s.io/api/core/v1"

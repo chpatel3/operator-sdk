@@ -17,7 +17,7 @@ package scaffold
 import (
 	"path/filepath"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
 )
 
 // AddController is the input needed to generate a pkg/controller/add_<kind>.go file

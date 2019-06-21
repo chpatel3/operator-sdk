@@ -29,11 +29,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
-	"github.com/operator-framework/operator-sdk/internal/util/fileutil"
-	"github.com/operator-framework/operator-sdk/internal/util/yamlutil"
-	framework "github.com/operator-framework/operator-sdk/pkg/test"
-	"github.com/operator-framework/operator-sdk/pkg/test/e2eutil"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/util/fileutil"
+	"github.com/chpatel3/operator-sdk/internal/util/yamlutil"
+	framework "github.com/chpatel3/operator-sdk/pkg/test"
+	"github.com/chpatel3/operator-sdk/pkg/test/e2eutil"
 
 	"github.com/ghodss/yaml"
 	dto "github.com/prometheus/client_model/go"

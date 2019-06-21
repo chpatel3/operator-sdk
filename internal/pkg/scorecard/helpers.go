@@ -17,7 +17,7 @@ package scorecard
 import (
 	"fmt"
 
-	scapiv1alpha1 "github.com/operator-framework/operator-sdk/pkg/apis/scorecard/v1alpha1"
+	scapiv1alpha1 "github.com/chpatel3/operator-sdk/pkg/apis/scorecard/v1alpha1"
 
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 )

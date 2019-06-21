@@ -26,9 +26,9 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 	"sigs.k8s.io/controller-runtime/pkg/reconcile"
 
-	"github.com/operator-framework/operator-sdk/internal/util/diffutil"
-	"github.com/operator-framework/operator-sdk/pkg/helm/internal/types"
-	"github.com/operator-framework/operator-sdk/pkg/helm/release"
+	"github.com/chpatel3/operator-sdk/internal/util/diffutil"
+	"github.com/chpatel3/operator-sdk/pkg/helm/internal/types"
+	"github.com/chpatel3/operator-sdk/pkg/helm/release"
 )
 
 // blank assignment to verify that HelmOperatorReconciler implements reconcile.Reconciler

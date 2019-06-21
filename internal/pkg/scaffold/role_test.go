@@ -17,7 +17,7 @@ package scaffold
 import (
 	"testing"
 
-	"github.com/operator-framework/operator-sdk/internal/util/diffutil"
+	"github.com/chpatel3/operator-sdk/internal/util/diffutil"
 
 	rbacv1 "k8s.io/api/rbac/v1"
 )

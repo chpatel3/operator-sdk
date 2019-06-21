@@ -24,11 +24,11 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
-	k8sInternal "github.com/operator-framework/operator-sdk/internal/util/k8sutil"
-	"github.com/operator-framework/operator-sdk/internal/util/projutil"
-	"github.com/operator-framework/operator-sdk/internal/util/yamlutil"
-	scapiv1alpha1 "github.com/operator-framework/operator-sdk/pkg/apis/scorecard/v1alpha1"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
+	k8sInternal "github.com/chpatel3/operator-sdk/internal/util/k8sutil"
+	"github.com/chpatel3/operator-sdk/internal/util/projutil"
+	"github.com/chpatel3/operator-sdk/internal/util/yamlutil"
+	scapiv1alpha1 "github.com/chpatel3/operator-sdk/pkg/apis/scorecard/v1alpha1"
 
 	"github.com/ghodss/yaml"
 	olmapiv1alpha1 "github.com/operator-framework/operator-lifecycle-manager/pkg/api/apis/operators/v1alpha1"

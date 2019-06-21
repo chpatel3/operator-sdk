@@ -18,7 +18,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
 
 	"github.com/spf13/afero"
 )

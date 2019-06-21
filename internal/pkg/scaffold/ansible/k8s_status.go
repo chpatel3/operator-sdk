@@ -15,7 +15,7 @@
 package ansible
 
 import (
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
 )
 
 const K8sStatusPythonFile = "library/k8s_status.py"

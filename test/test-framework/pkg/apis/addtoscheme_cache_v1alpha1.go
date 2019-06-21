@@ -15,7 +15,7 @@
 package apis
 
 import (
-	"github.com/operator-framework/operator-sdk/test/test-framework/pkg/apis/cache/v1alpha1"
+	"github.com/chpatel3/operator-sdk/test/test-framework/pkg/apis/cache/v1alpha1"
 )
 
 func init() {

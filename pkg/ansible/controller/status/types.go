@@ -18,7 +18,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/operator-framework/operator-sdk/pkg/ansible/runner/eventapi"
+	"github.com/chpatel3/operator-sdk/pkg/ansible/runner/eventapi"
 
 	"k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

@@ -22,11 +22,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
-	"github.com/operator-framework/operator-sdk/internal/util/fileutil"
-	"github.com/operator-framework/operator-sdk/internal/util/projutil"
-	"github.com/operator-framework/operator-sdk/internal/util/yamlutil"
-	"github.com/operator-framework/operator-sdk/pkg/test"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/util/fileutil"
+	"github.com/chpatel3/operator-sdk/internal/util/projutil"
+	"github.com/chpatel3/operator-sdk/internal/util/yamlutil"
+	"github.com/chpatel3/operator-sdk/pkg/test"
 
 	"github.com/ghodss/yaml"
 	log "github.com/sirupsen/logrus"

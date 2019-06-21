@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold"
 )
 
 func TestConfig(t *testing.T) {

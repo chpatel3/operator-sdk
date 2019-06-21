@@ -17,7 +17,7 @@ package scaffold
 import (
 	"path/filepath"
 
-	"github.com/operator-framework/operator-sdk/internal/pkg/scaffold/input"
+	"github.com/chpatel3/operator-sdk/internal/pkg/scaffold/input"
 )
 
 const ApisFile = "apis.go"

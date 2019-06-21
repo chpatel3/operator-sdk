@@ -33,9 +33,9 @@ import (
 	"k8s.io/helm/pkg/tiller/environment"
 	crmanager "sigs.k8s.io/controller-runtime/pkg/manager"
 
-	"github.com/operator-framework/operator-sdk/pkg/helm/client"
-	"github.com/operator-framework/operator-sdk/pkg/helm/engine"
-	"github.com/operator-framework/operator-sdk/pkg/helm/internal/types"
+	"github.com/chpatel3/operator-sdk/pkg/helm/client"
+	"github.com/chpatel3/operator-sdk/pkg/helm/engine"
+	"github.com/chpatel3/operator-sdk/pkg/helm/internal/types"
 )
 
 // ManagerFactory creates Managers that are specific to custom resources. It is
